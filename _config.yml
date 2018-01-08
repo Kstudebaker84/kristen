@@ -1,9 +1,9 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: 
-description: 
-url: https://kristen.netlify.com
-
+title:
+description:
+#url: https://kristen.netlify.com
+url: http://localhost:3000
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/src
 destination: .tmp/dist
@@ -14,9 +14,9 @@ exclude: ['assets']
 # NOTE: Don't use @ in front of your Twitter username
 author:
   name: Kristen Studebaker
-  email: 
-  uri: 
-  bio: 
+  email:
+  uri:
+  bio:
   twitter:
   github:
 

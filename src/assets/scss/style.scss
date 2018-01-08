@@ -1,8 +1,17 @@
-/*
-The main SCSS file for everything, yep
-*/
-
-@import "main";
-@import "base";
-@import "layout";
-@import "syntax-highlighting";
+body {
+  font-size:
+  font-family:
+}
+h1 {
+  font-size: 1em;
+  font-family: 'Pacifico', cursive;
+  font-family: "myriad-pro",sans-serif;
+}
+p {
+  font-size:
+}
+.container {
+  width: 100%;
+  background:
+  margin: 0 auto;
+}
